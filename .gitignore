@@ -4,3 +4,5 @@ __pycache__/
 .streamlit/
 pose_feedback.png
 .env
+key
+key.pub
